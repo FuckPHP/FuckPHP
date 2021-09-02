@@ -4,20 +4,18 @@
 
 本项目创建于2021年7月8日，最近的一次更新时间为2021年9月2日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-PHP代码审计资源]()
-- [0x02-PHP漏洞靶场审计]()
-- [0x03-PHP代码审计工具]()
-- [0x04-PHP代码审计案例]()
-- [0x05-PHP安全Web漏洞]()
-- [0x06-PHP安全编码规范]()
-- [0x07-PHP代码审计培训]()
-- [0x08-PHP代码审计参考]()
+- [0x01-PHP代码审计资源](https://github.com/0e0w/HackPHP#0x01-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
+- [0x02-PHP漏洞靶场审计](https://github.com/0e0w/HackPHP#0x02-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
+- [0x03-PHP代码审计工具](https://github.com/0e0w/HackPHP#0x03-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
+- [0x04-PHP代码审计案例](https://github.com/0e0w/HackPHP#0x04-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E6%A1%88%E4%BE%8B)
+- [0x05-PHP安全Web漏洞](https://github.com/0e0w/HackPHP#0x05-php%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
+- [0x06-PHP安全编码规范](https://github.com/0e0w/HackPHP#0x06-php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
+- [0x07-PHP代码审计培训](https://github.com/0e0w/HackPHP#0x07-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%9F%B9%E8%AE%AD)
+- [0x08-PHP代码审计参考](https://github.com/0e0w/HackPHP#0x08-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%8F%82%E8%80%83)
 
 ## 0x01-PHP代码审计资源
 
 ## 0x02-PHP漏洞靶场平台
-
-- [ ] 
 
 - [ ] https://github.com/digininja/DVWA
 - [ ] https://github.com/710leo/ZVulDrill
