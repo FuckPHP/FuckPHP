@@ -4,13 +4,13 @@
 
 本项目创建于2021年7月8日，最近的一次更新时间为2021年11月18日。本项目会持续更新，直到海枯石烂。
 
-- [01-PHP代码审计资源]()
-- [02-PHP代码审计工具]()
-- [03-PHP漏洞靶场平台]()
-- [04-PHP安全Web漏洞]()
-- [05-PHP代码审计实战]()
-- [06-PHP安全编码规范]()
-- [07-PHP代码审计老师]()
+- [01-PHP代码审计资源](https://github.com/0e0w/HackPHP#01-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
+- [02-PHP代码审计工具](https://github.com/0e0w/HackPHP#02-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
+- [03-PHP漏洞靶场平台](https://github.com/0e0w/HackPHP#03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
+- [04-PHP安全Web漏洞](https://github.com/0e0w/HackPHP#04-php%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
+- [05-PHP代码审计实战](https://github.com/0e0w/HackPHP#05-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
+- [06-PHP安全编码规范](https://github.com/0e0w/HackPHP#06-php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
+- [07-PHP代码审计老师](https://github.com/0e0w/HackPHP#07-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
 
 ## 01-PHP代码审计资源
 
@@ -32,12 +32,13 @@
 - [ ] https://github.com/Xyntax/1000php | 1000个PHP代码审计案例
 - [ ] https://github.com/Jyny/pasc2at | 高级PHP应用程序漏洞审核技术
 - [ ] https://github.com/SukaraLin/php_code_audit_project
-- [ ] https://www.freebuf.com/articles/web/252333.html
 - [ ] https://github.com/lightswitch05/php-version-audit
 - [ ] https://github.com/marcocesarato/PHP-Antimalware-Scanner
 - [ ] https://github.com/FriendsOfPHP/PHP-CS-Fixer
 - [ ] https://github.com/kitezzzGrim/PHP-Audit-Learn
-- [ ] https://github.com/burpheart/PHPAuditGuideBook
+- [ ] [《PHP代码审计入门指南》](https://github.com/burpheart/PHPAuditGuideBook)@burpheart
+- [ ] https://github.com/M0untainShley/PHP_CodeAudit
+- [ ] https://www.freebuf.com/articles/web/252333.html
 
 三、视频教程
 
