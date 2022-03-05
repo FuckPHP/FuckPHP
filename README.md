@@ -1,17 +1,17 @@
 # 《PHP安全-只有PHP安全才能拯救世界》
 
-本项目是记录自己在学习PHP代码审计过程中遇到的优秀内容，包括PHP代码审计技巧以及优秀的PHP代码审计案例。一个不会PHP代码审计的师傅不是一个好黑客！一个不会PHP代码审计的黑客不是一个好师傅！深入理解PHP代码审计，手握众多重点PHP应用高危0day！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习研究PHP安全过程中遇到的优秀内容，包括PHP代码审计资源以及PHP开发的应用程序组件协议等的安全内容。一个不会PHP攻击的黑客不是一个好师傅，一个不懂PHP安全的师傅不是一个好黑客！深入理解PHP安全，手握众多重点PHP应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
 本项目创建于2021年7月8日，最近的一次更新时间为2022年3月5日。本项目会持续更新，直到海枯石烂。
 
-- [01-PHP安全研究资源]()
-- [02-PHP安全研究工具]()
-- [03-PHP安全漏洞环境]()
-- [04-PHP安全漏洞分类]()
-- [05-PHP安全代码审计]()
-- [06-PHP安全漏洞修复]()
-- [07-PHP安全高危应用]()
-- [08-PHP安全参考资源]()
+- [01-PHP安全研究资源](https://github.com/FuckPHP/FuckPHP#01-php%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
+- [02-PHP安全研究工具](https://github.com/FuckPHP/FuckPHP#02-php%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
+- [03-PHP安全漏洞环境](https://github.com/FuckPHP/FuckPHP#03-php%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E7%8E%AF%E5%A2%83)
+- [04-PHP安全漏洞分类](https://github.com/FuckPHP/FuckPHP#04-php%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%88%86%E7%B1%BB)
+- [05-PHP安全代码审计](https://github.com/FuckPHP/FuckPHP#05-php%E5%AE%89%E5%85%A8%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1)
+- [06-PHP安全漏洞修复](https://github.com/FuckPHP/FuckPHP#06-php%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D)
+- [07-PHP安全高危应用](https://github.com/FuckPHP/FuckPHP#07-php%E5%AE%89%E5%85%A8%E9%AB%98%E5%8D%B1%E5%BA%94%E7%94%A8)
+- [08-PHP安全参考资源](https://github.com/FuckPHP/FuckPHP#08-php%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-PHP安全研究资源
 
@@ -106,6 +106,10 @@
 - SSRF服务端请求伪造
 
 ## 05-PHP安全代码审计
+
+一、PHP安全Web漏洞
+
+二、PHP代码审计实战
 
 ## 06-PHP安全漏洞修复
 
