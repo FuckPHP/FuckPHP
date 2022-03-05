@@ -1,18 +1,19 @@
 # 《PHP安全-只有PHP安全才能拯救世界》
 
-本项目是记录自己在学习PHP代码审计过程中遇到的优秀内容，包括PHP代码审计技巧以及优秀的PHP代码审计案例。一个不会PHP代码审计的师傅不是一个好黑客！一个不会PHP代码审计的黑客不是一个好师傅！深入理解PHP代码审计，手握众多重点PHP应用高危0day！作者：[0e0w](https://github.com/0e0w/HackPHP)
+本项目是记录自己在学习PHP代码审计过程中遇到的优秀内容，包括PHP代码审计技巧以及优秀的PHP代码审计案例。一个不会PHP代码审计的师傅不是一个好黑客！一个不会PHP代码审计的黑客不是一个好师傅！深入理解PHP代码审计，手握众多重点PHP应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
 本项目创建于2021年7月8日，最近的一次更新时间为2022年3月5日。本项目会持续更新，直到海枯石烂。
 
-- [01-PHP代码审计资源](https://github.com/0e0w/HackPHP#01-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
-- [02-PHP代码审计工具](https://github.com/0e0w/HackPHP#02-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
-- [03-PHP漏洞靶场平台](https://github.com/0e0w/HackPHP#03-php%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
-- [04-PHP安全Web漏洞](https://github.com/0e0w/HackPHP#04-php%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
-- [05-PHP代码审计实战](https://github.com/0e0w/HackPHP#05-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%AE%9E%E6%88%98)
-- [06-PHP安全编码规范](https://github.com/0e0w/HackPHP#06-php%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
-- [07-PHP代码审计老师](https://github.com/0e0w/HackPHP#07-php%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%80%81%E5%B8%88)
+- [01-PHP安全研究资源]()
+- [02-PHP安全研究工具]()
+- [03-PHP安全漏洞环境]()
+- [04-PHP安全漏洞分类]()
+- [05-PHP安全代码审计]()
+- [06-PHP安全漏洞修复]()
+- [07-PHP安全高危应用]()
+- [08-PHP安全参考资源]()
 
-## 01-PHP代码审计资源
+## 01-PHP安全研究资源
 
 一、书籍资料
 - [ ] [《代码审计：企业级Web代码安全架构》](https://item.jd.com/10037792221891.html)@尹毅
@@ -52,7 +53,7 @@
 
 - https://github.com/topics/static-analysis?l=php
 
-## 02-PHP代码审计工具
+## 02-PHP安全研究工具
 
 - [ ] https://github.com/xdebug/xdebug
 - [ ] https://github.com/phpstan/phpstan
@@ -62,7 +63,7 @@
 - [ ] https://github.com/ecriminal/phpvuln
 - [ ] https://github.com/meizjm3i/PHPVulFinder
 
-## 03-PHP漏洞靶场平台
+## 03-PHP安全漏洞环境
 
 - [ ] https://github.com/digininja/DVWA
 - [ ] https://github.com/710leo/ZVulDrill
@@ -83,8 +84,9 @@
 - [ ] https://github.com/admin360bug/PHP
 - [ ] https://github.com/Yavuzlar/VulnLab
 - [ ] https://github.com/SpiderMate/B-XSSRF
+- [ ] https://github.com/f4cknet/gohackphp
 
-## 04-PHP安全Web漏洞
+## 04-PHP安全漏洞分类
 
 本部分详细列举常见的PHP安全漏洞内容。
 
@@ -103,10 +105,16 @@
 - CSRF跨站请求伪造
 - SSRF服务端请求伪造
 
-## 05-PHP代码审计实战
+## 05-PHP安全代码审计
 
-## 06-PHP安全编码规范
+## 06-PHP安全漏洞修复
 
-## 07-PHP代码审计老师
+一、PHP安全编码规范
+
+二、PHP安全漏洞修复
+
+## 07-PHP安全高危应用
+
+## 08-PHP安全参考资源
 
 [![Stargazers over time](https://starchart.cc//0e0w/HackPHP.svg)](https://starchart.cc/0e0w/HackPHP)
